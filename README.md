@@ -6,4 +6,4 @@ The dataset used for the prediction model (Combined_Flights_2022.csv) is a colle
 This dataset can be found on Kaggle using the following link: https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022?select=Combined_Flights_2022.csv 
 
 # Models
-We first created three baseline models: Simple Baseline, Latent Factor, and Logistic Regression. Using the results obtained from these models, the final models implemented were Decision Tree and Random Forest, providing higher precision and recall scores, along with a high F-1 score.
+We first created three baseline models: Simple Baseline, Latent Factor, and Logistic Regression. Using the results obtained from these models, the final models implemented were Decision Tree and Random Forest, providing higher precision and recall scores, which contribute to a high f-1 score.

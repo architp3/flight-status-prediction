@@ -3,7 +3,7 @@ Air travel has become an essential part of modern life, connecting people all ov
 
 # Dataset
 The dataset used for our prediction model (Combined_Flights_2022.csv) is a collection of flights from 2022. Using this dataset, we hope to predict if flights will be canceled or not.
-This dataset can be found on Kaggle using the following link: https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022?select=Combined_Flights_2022.csv 
+This dataset can be found on Kaggle using the following link: https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022?select=Combined_Flights_2022.csv.
 
 # Models
 We started by creating three baseline models: Simple Baseline, Latent Factor, and Logistic Regression. Using the results obtained from these models, the final models implemented were Decision Tree and Random Forest, providing higher precision and recall scores, which contribute to a higher f-1 score.

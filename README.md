@@ -1,5 +1,5 @@
 # Project Overview
-Air travel has become an essential part of modern life, connecting people all over the globe. However, the occurrence of flight cancellations can disrupt plans and inconvenience passengers, impacting both individuals and airlines. The ability to anticipate and mitigate such disruptions is crucial. Using machine learning, we aimed to create a predictive model that determines whether a flight will be canceled or not. We hope to aid airlines and travelers by providing information that can potentially make travel smoother and prevent issues regarding flight cancellations.
+Air travel has become an essential part of modern life, connecting people all over the globe. However, the occurrence of flight cancellations can disrupt plans and inconvenience passengers, impacting both individuals and various airlines. The ability to anticipate and mitigate such disruptions is crucial. Using machine learning, we aimed to create a predictive model that determines whether a flight will be canceled or not. We hope to aid airlines and travelers by providing information that can potentially make travel smoother and prevent issues regarding flight cancellations.
 
 # Dataset
 The dataset used for our prediction model (Combined_Flights_2022.csv) is a collection of flights from 2022. Using this dataset, we hope to predict if flights will be canceled or not.
